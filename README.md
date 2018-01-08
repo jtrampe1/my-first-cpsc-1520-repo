@@ -7,3 +7,4 @@ I have learned how to
 - Install GitHub Desktop
 - Create a local repository
 - Commit changes to my repository
+- Publish my code to GitHub.com
