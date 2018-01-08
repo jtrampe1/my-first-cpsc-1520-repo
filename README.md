@@ -1,1 +1,4 @@
-# my first cpsc 1520 repo
+# My First CPSC 1520 Repository
+
+This is a code respository for me to learn about VersionControl using Git.
+
